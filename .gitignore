@@ -1,0 +1,7 @@
+node_modules/
+dist/
+work/
+outputs/
+data/public-market.json
+data/.lantern-admin-setup-key
+data/proofs/
